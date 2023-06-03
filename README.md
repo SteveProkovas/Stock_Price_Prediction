@@ -1,6 +1,6 @@
 # Stock_Price_Prediction
 
-First, the necessary libraries are imported:
+The libraries are imported:
         tkinter: for creating the GUI.
         filedialog and messagebox from tkinter: for handling file selection and displaying error messages.
         pandas and numpy: for data manipulation and analysis.
